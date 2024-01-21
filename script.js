@@ -66,7 +66,7 @@
       COLORFUL: true,
       COLOR_UPDATE_SPEED: 5,
       PAUSED: false,
-      BACK_COLOR: { r: 255, g: 255, b: 255 },
+      BACK_COLOR: { r: 0, g: 0, b: 0 },
       TRANSPARENT: true,
       BLOOM: false,
       BLOOM_ITERATIONS: 8,
